@@ -1,7 +1,6 @@
 # Summary
 
 * [Overview of FOSS](overview_of_foss/README.md)
-   * [Free as in Freedom](overview_of_foss/free_as_in_freedom.md)
 * [Evolution of FOSS](evolution_of_foss/README.md)
    * [Across the world](evolution_of_foss/across_the_world.md)
    * [In India](evolution_of_foss/in_india.md)
