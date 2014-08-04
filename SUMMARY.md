@@ -9,6 +9,7 @@
 * [Ideals of FOSS](ideals_of_foss/README.md)
    * [Worldview](ideals_of_foss/worldview.md)
    * [In India](ideals_of_foss/in_india.md)
+   * [Case Study: Mozilla India](ideals_of_foss/case_study_mozilla_india)
 * [Gender Gap](gender_gap/README.md)
 * [Role of the government](role_of_the_government/README.md)
 * [Future of FOSS](future_of_foss/README.md)
