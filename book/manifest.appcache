@@ -1,5 +1,5 @@
 CACHE MANIFEST
-# Revision 1407175187749
+# Revision 1407222583120
 
 CACHE:
 gender_gap/README.html
@@ -8,6 +8,7 @@ evolution_of_foss/in_india.html
 future_of_foss/README.html
 index.html
 ideals_of_foss/README.html
+ideals_of_foss/case_study_mozilla_india.html
 ideals_of_foss/in_india.html
 ideals_of_foss/worldview.html
 overview_of_foss/README.html
