@@ -1,3 +1,4 @@
+#
 #<blockquote>Free and open source software : the journey in India</blockquote>
 
 <p>Freedom of choice, Freedom of expression, Freedom- these concepts of have been remoulded down the ages. The Digital Age has expanded the horizon for the development of the elusive machine called the Computers. Today the way we interact with the computers is affecting and reshaping the very structure of the society. the economics and political spheres of the society is being taken by a whirlwind of changes due to the interaction of the computer language systems and the idealisms of the citizens at large.</p>
